@@ -5,4 +5,3 @@ authors = ["mojila <me.mojila@gitlab.com>"]
 edition = "2018"
 
 [dependencies]
-csv = "*"
